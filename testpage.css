@@ -1,0 +1,13 @@
+h1 {
+    text-transform: capitalize;
+    border: solid 2px;
+}
+body {
+    background-color: aquamarine;
+}
+p {
+    float: left;
+}
+img {
+    padding: 50px;
+}
